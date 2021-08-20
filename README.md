@@ -4,19 +4,6 @@ API onlin Order Is JSON API.
 # Architecture
 I choose to use MVVM with RXSwift (Model-View-ViewModel) as my project architecture in order to provide a cleaner code, with clear separation between the view, the data and the business logic.
 The following diagram shows all the modules and how each module interact with one another after. This architecture using a layered software architecture.
-# Built With 🛠️
-* [Swift](https://kotlinlang.org/) - official programming language for iOS development .
-* [Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html) - for asynchronous programming .
-* [iOS Architecture Components](https://developer.android.com/topic/libraries/architecture) - Collection of libraries that help you design robust, testable, and maintainable apps.
-  - [LiveData](https://developer.android.com/topic/libraries/architecture/livedata) - Data objects that notify views when the underlying database changes.
-  - [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) - Stores UI-related data that isn't destroyed on UI changes. 
-  - [Room](https://developer.android.com/topic/libraries/architecture/room) - Access your app's SQLite database with in-app objects and compile-time checks.
-  - [Navigation](https://developer.android.com/guide/navigation) - 
-* [Koin](https://start.insert-koin.io/) - Dependency Injection Framework (Kotlin).
-* [Retrofit](https://square.github.io/retrofit/) - A type-safe HTTP client for Android and Java.
-* [Fragment](https://developer.android.com/guide/components/fragments)
-* [Glide](https://bumptech.github.io/glide/) for image loading
-* [pretty time ](https://www.ocpsoft.org/prettytime/) - format time 
 
 # screens of the app
 * Splash
