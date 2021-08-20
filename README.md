@@ -24,7 +24,9 @@ The following diagram shows all the modules and how each module interact with on
 
 * menu 
 ![Screenshot_20200515-180102 1](https://raw.githubusercontent.com/hani1karam/Restaurant-delivery/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-08-20%20at%2012.31.28.png)
+
 * Details
-![Screenshot_20200515-180039 1](https://user-images.githubusercontent.com/55722619/82084824-cd35a480-96a0-11ea-9327-5eae49ad2c4b.png)
+![Screenshot_20200515-180039 1](https://raw.githubusercontent.com/hani1karam/Restaurant-delivery/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-08-20%20at%2012.36.18.png)
+
 * Web View 
 ![Screenshot_20200515-180051 1](https://user-images.githubusercontent.com/55722619/82084863-e3436500-96a0-11ea-8d31-338296ed6a3f.png)
