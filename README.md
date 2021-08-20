@@ -6,8 +6,10 @@ I choose to use MVVM with RXSwift (Model-View-ViewModel) as my project architect
 The following diagram shows all the modules and how each module interact with one another after. This architecture using a layered software architecture.
 
 # screens of the app
+!
 * Login 
    <img align="left" img src="Simulator Screen Shot - iPhone 11 - 2021-08-20 at 12.30.37.png">
+   !
 * Home from api
 ![Screenshot_20200515-202423 1](https://user-images.githubusercontent.com/55722619/82084228-d1ad8d80-969f-11ea-9eb5-eb566068c229.png)
 * Home Cached from api using room
