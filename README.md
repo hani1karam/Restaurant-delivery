@@ -11,9 +11,9 @@ The following diagram shows all the modules and how each module interact with on
    ! <img align="left" img src="Simulator Screen Shot - iPhone 11 - 2021-08-20 at 12.30.37.png">
    
 * Register Simulator
-! <img align="left" img src="Screen Shot - iPhone 11 - 2021-08-20 at 12.30.44.png">
-* Home Cached from api using room
-![Screenshot_20200515-202114 1](https://user-images.githubusercontent.com/55722619/82084328-fd307800-969f-11ea-8c5c-948c05c4d7e1.png)
+  ! <img align="left" img src="Simulator Screen Shot - iPhone 11 - 2021-08-20 at 12.30.44.png">
+* Home from api
+  ! <img align="left" img src="Simulator Screen Shot - iPhone 11 - 2021-08-20 at 12.31.05.png">
 
 * Favourite
 ![Screenshot_20200515-180027 2](https://user-images.githubusercontent.com/55722619/82084661-792ac000-96a0-11ea-9ce9-1fc3232b1cfb.png)
