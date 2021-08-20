@@ -8,15 +8,15 @@ The following diagram shows all the modules and how each module interact with on
 # screens of the app
 
 * Login 
-   ! <img align="left" img src="Simulator Screen Shot - iPhone 11 - 2021-08-20 at 12.30.37.png">
+![Screenshot_20200515-180051 1](https://user-images.githubusercontent.com/55722619/82084863-e3436500-96a0-11ea-8d31-338296ed6a3f.png)
    
 * Register Simulator
-  ! <img align="left" img src="Simulator Screen Shot - iPhone 11 - 2021-08-20 at 12.30.44.png">
+![Screenshot_20200515-180051 1](https://user-images.githubusercontent.com/55722619/82084863-e3436500-96a0-11ea-8d31-338296ed6a3f.png)
 * Home from api
-  ! <img align="left" img src="Simulator Screen Shot - iPhone 11 - 2021-08-20 at 12.31.05.png">
+![Screenshot_20200515-180051 1](https://user-images.githubusercontent.com/55722619/82084863-e3436500-96a0-11ea-8d31-338296ed6a3f.png)
 
 * Favourite
-![Screenshot_20200515-180027 2](https://user-images.githubusercontent.com/55722619/82084661-792ac000-96a0-11ea-9ce9-1fc3232b1cfb.png)
+![Screenshot_20200515-180051 1](https://user-images.githubusercontent.com/55722619/82084863-e3436500-96a0-11ea-8d31-338296ed6a3f.png)
 * Delete All 
 ![Screenshot_20200515-180102 1](https://user-images.githubusercontent.com/55722619/82084744-a4adaa80-96a0-11ea-8fc3-5dcb6c9e94ca.png)
 * Details
