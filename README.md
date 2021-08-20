@@ -7,7 +7,7 @@ The following diagram shows all the modules and how each module interact with on
 
 # screens of the app
 * Splash
-![Screenshot_20200515-202418 1](https://user-images.githubusercontent.com/55722619/82084068-957a2d00-969f-11ea-9e06-569f1928f568.png)
+![Screenshot_20200515-202418 1](Simulator Screen Shot - iPhone 11 - 2021-08-20 at 12.30.37.png)
 * Home from api
 ![Screenshot_20200515-202423 1](https://user-images.githubusercontent.com/55722619/82084228-d1ad8d80-969f-11ea-9eb5-eb566068c229.png)
 * Home Cached from api using room
