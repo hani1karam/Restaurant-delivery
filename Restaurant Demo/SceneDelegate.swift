@@ -7,6 +7,7 @@
 
 import UIKit
 
+@available(iOS 13.0, *)
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
     var window: UIWindow?
@@ -27,8 +28,12 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
     }
 
     func sceneDidBecomeActive(_ scene: UIScene) {
-        // Called when the scene has moved from an inactive state to an active state.
-        // Use this method to restart any tasks that were paused (or not yet started) when the scene was inactive.
+        if let  _ = UserDefaults.standard.value(forKey: "IDUSER")  as? Int {
+                let sb = UIStoryboard(name: "Home", bundle: nil)
+                var vc2: UIViewController
+                vc2 = sb.instantiateViewController(withIdentifier: "HomeVC")
+                window?.rootViewController = vc2
+             }
     }
 
     func sceneWillResignActive(_ scene: UIScene) {
