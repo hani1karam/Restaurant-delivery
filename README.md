@@ -22,8 +22,8 @@ The following diagram shows all the modules and how each module interact with on
 * when change catrogy 
 ![Screenshot_20200515-180051 1](https://raw.githubusercontent.com/hani1karam/Restaurant-delivery/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-08-20%20at%2012.31.07.png)
 
-* Delete All 
-![Screenshot_20200515-180102 1](https://user-images.githubusercontent.com/55722619/82084744-a4adaa80-96a0-11ea-8fc3-5dcb6c9e94ca.png)
+* menu 
+![Screenshot_20200515-180102 1](https://raw.githubusercontent.com/hani1karam/Restaurant-delivery/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-08-20%20at%2012.31.28.png)
 * Details
 ![Screenshot_20200515-180039 1](https://user-images.githubusercontent.com/55722619/82084824-cd35a480-96a0-11ea-9327-5eae49ad2c4b.png)
 * Web View 
