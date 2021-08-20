@@ -34,3 +34,8 @@ The following diagram shows all the modules and how each module interact with on
 * Select Extra and size before add to cart 
 
 ![Screenshot_20200515-180051 1](https://raw.githubusercontent.com/hani1karam/Restaurant-delivery/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-08-20%20at%2012.36.18.png)
+
+* after add to cart 
+
+![Screenshot_20200515-180051 1](https://raw.githubusercontent.com/hani1karam/Restaurant-delivery/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-08-20%20at%2012.36.38.png)
+
