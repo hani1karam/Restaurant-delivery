@@ -1,11 +1,8 @@
-# Restaurant-delivery
-this app to make online order and sumbit order using mvvm with rxswift
-# News App 
-News application using the API from https://newsapi.org/
-API News Is JSON API for live news and blog articles from the media.
-News Feed is a simple  that gives you latest and best news from multiple sources so you no longer need to swap between apps to stay informed.
+# online order 
+this app to make online order and sumbit order
+API onlin Order Is JSON API.
 # Architecture
-I choose to use MVVM (Model-View-ViewModel) as my project architecture in order to provide a cleaner code, with clear separation between the view, the data and the business logic.
+I choose to use MVVM with RXSwift (Model-View-ViewModel) as my project architecture in order to provide a cleaner code, with clear separation between the view, the data and the business logic.
 The following diagram shows all the modules and how each module interact with one another after. This architecture using a layered software architecture.
 ![68747470733a2f2f646576656c6f7065722e616e64726f69642e636f6d2f746f7069632f6c69627261726965732f6172636869746563747572652f696d616765732f66696e616c2d6172636869746563747572652e706e67](https://user-images.githubusercontent.com/55722619/81968739-a8bec700-95d1-11ea-8682-48fe879c25ff.png)
 # Built With 🛠️
