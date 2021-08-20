@@ -39,3 +39,12 @@ The following diagram shows all the modules and how each module interact with on
 
 ![Screenshot_20200515-180051 1](https://raw.githubusercontent.com/hani1karam/Restaurant-delivery/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-08-20%20at%2012.36.38.png)
 
+* confirm order 
+
+![Screenshot_20200515-180051 1](https://raw.githubusercontent.com/hani1karam/Restaurant-delivery/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-08-20%20at%2012.36.42.png)
+
+
+* Loading 
+
+![Screenshot_20200515-180051 1](https://raw.githubusercontent.com/hani1karam/Restaurant-delivery/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-08-20%20at%2012.37.02.png)
+
